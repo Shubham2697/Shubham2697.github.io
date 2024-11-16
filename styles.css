@@ -1,0 +1,21 @@
+/* Container to limit page width */
+.container {
+  max-width: 900px; /* Maximum width of the content */
+  margin: 0 auto; /* Center the content horizontally */
+  padding: 0 20px; /* Optional padding on the left and right */
+}
+
+.timeline {
+  border-left: 3px solid #ccc;
+  padding-left: 20px;
+}
+
+.entry {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.entry h3 {
+  margin: 0;
+  font-weight: bold;
+}

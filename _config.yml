@@ -1,0 +1,7 @@
+title: Shubham Agarwal, ML/Data Engineer
+description: Data Enthusiast
+theme: jekyll-theme-minimal
+markdown: kramdown
+include:
+  - styles.css
+  
